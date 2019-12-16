@@ -1,7 +1,7 @@
 # MiAI_Cool_Detect
 Use VGG16 to detect cool images
 
-Article link:  http://ainoodle.tech/2019/12/12/may-tinh-cung-biet-nghe-va-cam-nhan-am-nhac-voi-ai/
+Article link:  http://ainoodle.tech/2019/12/16/xay-dung-model-phan-biet-va-tranh-xa-anh-mat-me/
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
